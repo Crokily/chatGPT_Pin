@@ -4,10 +4,8 @@
   "version": "1.0",
   "description": "Enable pinning of multiple chats to the GPT page.",
   "icons": {
-    "32": "icon/32.png",
-    "48": "icon/48.png",
-    "128": "icon/128.png",
-    "372": "icon/372.png"
+    "48": "icons/48.png",
+    "128": "icons/128.png"
   },
   "permissions": ["storage"],
   "content_scripts": [
