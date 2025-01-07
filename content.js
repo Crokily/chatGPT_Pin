@@ -247,12 +247,10 @@
     // 开始观察
     observer.observe(targetNode, config);
 
-    // 初始注入，确保页面加载时就存在按钮和列表
-    injectPinButton();
-    injectPinList();
-
     chrome.storage.onChanged.addListener((changes, area) => {
+      console.log('storage changed');
       if (area === 'local' && changes.pinnedChats) {
+        console.log('pinnedChats changed');
         updatePinList();
         updatePinButton();
       }
