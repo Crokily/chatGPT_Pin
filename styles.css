@@ -1,0 +1,8 @@
+.conversation-item {
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.conversation-item:hover {
+    background-color: var(--sidebar-surface-secondary);
+}
