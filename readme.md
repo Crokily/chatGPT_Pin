@@ -11,7 +11,7 @@
 ### 功能
 
 *   **置顶/取消置顶对话:** 在每个 ChatGPT 对话窗口的右上角，你会看到一个 "Pin" / "Unpin" 按钮。点击按钮即可将当前对话添加到置顶列表或从列表中移除。
-*   **置顶列表:** 在 ChatGPT 侧边栏的底部，你会看到一个 "Pin" 列表，其中列出了所有已置顶的对话。点击列表中的对话标题即可快速跳转到该对话。
+*   **置顶列表:** 在 ChatGPT 侧边栏的顶部，你会看到一个 "Pin" 列表，其中列出了所有已置顶的对话。点击列表中的对话标题即可快速跳转到该对话。
 *   **数据存储:** 使用 `chrome.storage.local` API 将置顶的对话数据存储在本地，即使关闭浏览器也不会丢失数据。
 
 ### 安装
@@ -102,7 +102,7 @@ This is a simple and free Chrome extension for pinning ChatGPT conversations, ma
 ### Features
 
 *   **Pin/Unpin Conversations:** You will see a "Pin" / "Unpin" button in the top right corner of each ChatGPT conversation window. Click the button to add the current conversation to the pinned list or remove it from the list.
-*   **Pinned List:** At the bottom of the ChatGPT sidebar, you will see a "Pin" list, which lists all pinned conversations. Click the conversation title in the list to quickly jump to that conversation.
+*   **Pinned List:** At the top of the ChatGPT sidebar, you will see a "Pin" list, which lists all pinned conversations. Click the conversation title in the list to quickly jump to that conversation.
 *   **Data Storage:** Uses the `chrome.storage.local` API to store pinned conversation data locally, so data is not lost even when the browser is closed.
 
 ### Installation
