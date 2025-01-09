@@ -1,6 +1,6 @@
 # ChatGPT Chat Pin - 简单的 ChatGPT 对话置顶插件 / Simple ChatGPT Chat Pinning Chrome Extension
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID.svg?label=Chrome%20Web%20Store)](https://chrome.google.com/webstore/detail/YOUR_EXTENSION_ID)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ilncoacgeflcogachikmceiebknknaem.svg?label=Chrome%20Web%20Store)](https://chrome.google.com/webstore/detail/ilncoacgeflcogachikmceiebknknaem)
 
 **中文 | [English](#english)**
 
